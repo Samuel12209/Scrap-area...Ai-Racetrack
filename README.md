@@ -1,2 +1,4 @@
 # Ai-Racetrack
-Learning  Machine learning, First example of machine learning
+# This is a racecar that will race around a track and will gradually get better.
+## learning machine learning project
+Machine learning,  my First example of machine learning 
